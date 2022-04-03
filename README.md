@@ -1,3 +1,3 @@
 #  MVVMArchitectureSmartNoteApp
-Clean Architecture Note App 
+Clean Architecture Note App.
 Used MVVM / CRUD / Jetpack Compose
